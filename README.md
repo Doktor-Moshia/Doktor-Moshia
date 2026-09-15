@@ -1,9 +1,9 @@
 # Hi there, I'm Mogale Doctor Moshia! 👋
 
 ### 🚀 Senior System Administrator & Full-Stack Developer
-I am a high-impact tech professional balancing **6–10 years of hands-on System Administration experience** with advanced academic studies. Currently pursuing my **BSc in Information Technology (2nd Year)** at Richfield, building on a deep foundation of NQF Levels 2–4 in IT & Computer Science. 
+I am a high-impact tech professional balancing **6–10 years of hands-on System Administration experience** with advanced academic studies. Currently pursuing my **BSc in Information Technology (2nd Year)**, building on a deep foundation of NQF Levels 2–4 in IT & Computer Science. 
 
-I don't just manage enterprise networks—I build tailored, full-stack software solutions from scratch when business needs arise, including custom agricultural SaaS platforms (PSI AGRI).
+I don't just manage enterprise networks—I build tailored, full-stack software solutions from scratch when business needs arise.
 
 ---
 
@@ -12,11 +12,11 @@ I don't just manage enterprise networks—I build tailored, full-stack software 
 #### **💻 Software Development & Frameworks**
 * **Languages:** C# (Core Expertise) | JavaScript | TypeScript | Python | HTML5 | CSS3
 * **Libraries & Ecosystems:** React.js | Vite | Node.js | Drizzle ORM | Next.js
-* **Currently In-Flight (Academic Focus):** C++ | PHP | Machine Learning (ML) | *Java (Coming 2027)*
+* **Currently In-Flight (Academic Focus):** C++ | PHP | Machine Learning (ML) & NLP | *Java (Coming 2027)*
 
 #### **🖥️ Infrastructure & DevOps**
 * **Systems Administration:** Windows/Linux Server Management | Active Directory | Network Infrastructure
-* **Tooling & Environments:** Git & GitHub | pnpm & npm package management | Cloud VPS Deployments
+* **Tooling & Environments:** Git & GitHub | pnpm & npm package management | Cloud VPS Deployments | AWS | Azure
 
 ---
 
