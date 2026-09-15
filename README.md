@@ -1,7 +1,7 @@
 # Hi there, I'm Mogale Doctor Moshia! 👋
 
 ### 🚀 Senior System Administrator & Full-Stack Developer
-I am a high-impact tech professional balancing **6–10 years of hands-on System Administration experience** with advanced academic studies. Currently pursuing my **BSc in Information Technology (2nd Year)**, building on a deep foundation of NQF Levels 2–4 in IT & Computer Science. 
+I am a high-impact tech professional balancing **6–10 years of hands-on System Administration experience** with advanced academic studies. Currently pursuing my **BSc in Information Technology (2nd Year)**, building on a deep foundation of NQF Levels 2–4 in IT & Computer Science with industry certification (CompTIA: A+, N+, ans Server +). 
 
 I don't just manage enterprise networks—I build tailored, full-stack software solutions from scratch when business needs arise.
 
